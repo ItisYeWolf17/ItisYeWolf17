@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello everyone, my name is Gerald!<br><br>I’m currently not working as I’m finishing my bachelor’s degree in Computer Systems Engineering.<br><br>I recently completed my studies in Systems Engineering, where I worked with various interesting types of technologies.<br><br>I’m very interested in collaborating on projects involving frameworks like ASP.NET and .NET Core, as I feel especially comfortable with them. However, I can adapt based on what is required.<br><br>Fun fact: I like instruments, and I recently got into the world of drones and really enjoy it!
+Hello! My name is Gerald, and I recently completed my University Bachelor's Degree in Computer Systems Engineering. I’m currently in the final stages of completing my Licenciatura (equivalent to a Bachelor’s degree with specialization) in the same field.
+
+At the same time, I’m working at EY as a Full Stack Staff member within the Consulting service line, where I’ve been gaining valuable experience collaborating on technology-driven projects.
+
+I have a strong interest in web development, particularly with frameworks like ASP.NET and .NET Core, where I feel most confident. However, I’m always open to learning and adapting to different technologies depending on the needs of each project.
+
+Outside of work, I have a passion for music and recently developed a growing interest in drones, which has become one of my favorite hobbies.
 
 
 ## 🌐 Socials:
